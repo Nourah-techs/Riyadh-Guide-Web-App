@@ -1,0 +1,16 @@
+.button:hover {
+    background-color: #45a049;
+}
+
+.menu__link:hover {
+    color: #007bff;
+}
+
+
+.menu__item.selected .menu__link {
+    color: #5fc2ed;
+    font-weight: bold;
+    border-bottom: 2px solid #5fc2ed;
+}
+
+
